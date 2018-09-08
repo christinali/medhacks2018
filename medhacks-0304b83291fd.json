@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medhacks-215813",
+  "private_key_id": "0304b83291fd9ddfd0c8ca63431d90886dbd3e34",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmsD9/0W3QiIWT\nH9Ll7oYNytJ0jCMTZLfPKrgbopcnk4rgButNgrvapyJ+D5CJH6Kx0S4J2bUNW7x0\nhWLOscAXT/zQZXRjXfbeEJePZdlpBh2jOqBc6V33AyT9jLmLRDJsfFChLBC4EHS8\nBcJsTspWBpmsCy+eh3hRyzjYH5k1fRdzjF5Demo8+n9udKZQpio1Y7LVzYZP3PS9\nYo7KWFP0yEdSAAkN31hl9TFHjmYus51oMfM69WYvVV957UQekyoOM+wXCtPkZlSv\neHUwWDwlVbBHNUfEat+bcQX2c9gsImnEAtRbrU1M598FUi0fbfa76+Qp8+Ie65H5\nzbTS6Zt3AgMBAAECggEALSqIqju3Q9AaUZlH7iHJlScmC4qFXpXl8G6k4GgYCRND\niByX2bLY8BBlmj7hbSZzUTdbADRLiMkYsYILGfK0GB0GZfl3pg0p/VYFm0d/t6N+\nmGIkXcimO25QsZtWE1RxTVAKEQH9rcJXvzLYUbyvusujDCkjyBLxGUi1qGo3e3Rv\nq+kynf9xePcol9aq6+OjmD9kDangTn+2KYIASSMUHiqGaCB9+VfvY6IwffqoKR2C\na+ot+EWpq8UJXz+mTw/MXs3YfYohl/l+/m4GHqadBAV8sbkxtA5GuGAkw7+fWwmT\nfvIzXiiDMzaKsYDHpvDHqPn4rW0mpt3ACQBEFdTtwQKBgQDakgdiVqR2fJjv456n\ng5GI9cjYI9OHvmgx3kNbJpgjUM7Clorhc8acfF2/GA3SBNfWisJ9C6ZAFnJV9Iks\nMoGKTcF+0CP7vCMoKmbSHX+pMW0IJJDcf4Wulc1I3ILo6eRD0QToTaqLpIdx8DH0\nDXJZ/oSN1aoYcYY9LAISPqLcMQKBgQDDO8BXeoQE3zGIaAvXucFIpizbBqhI5FG4\ngNaxKHlU3U/6RW9bpW3OkrKiA/pka76a/ak2xsxWqJrEfjJzdCeaLbBIJm2ID2wZ\n+1orq5Z3hjlvFojOYDMVpqd/zk8c8rXhUkHnUjNKRJ8UXZamAHm+crR/MWdlr/wj\njEF8JQcQJwKBgB1Ae/KCTAJ7jHBWk04yApFE67tZmB7LseAysesKEERxtSo/wZiI\nyST6VAWWL4tTEJvq+DqKC5b6KhUs5ArhO4sJ+wKA0sAHHuFqQ1aNkh9PuRrk4epQ\nutBxxgahVHfdjaox2ClK8686ttHd5qGWBx7aPF1LIjehQej/8csFTQCRAoGAfZ+j\nAicJcAEV5Ene5O7X2iFjV4QPIOgZVXlBrDj46YyGe+nV38iwwW1PmESrB5b0zNJP\n4blFnrVa8PirCfNB0El51tMzQ4t46bb8rID6jupFZp+/Y9wuws27lddwvJXIRrYh\nRfF0o2NIYVhfKW3A6LTyQ63MdHgq68zCDlndE50CgYEApCRpavM6rkev2U3sraun\nRJz+62gTXRkAFs7GMxn57/5BaRhZIywrK1BZpwW2N4W21WPPtYZQljIgLSL/4oeU\nghr9mfw7knLdpjol52VKAQA31Yr6QAefy1SnfPMy3mrZzRtPLiy6ICzrGCqpfpoT\nko9qabr7QlWQ6ClonOnmvAs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medhacks@medhacks-215813.iam.gserviceaccount.com",
+  "client_id": "104579422224636614193",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medhacks%40medhacks-215813.iam.gserviceaccount.com"
+}
