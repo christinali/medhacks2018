@@ -1,4 +1,4 @@
-# MedHacks 2018
+# MedHacks 2018 - Pocket Pills
 
 Project for the 2018 Medical Hackathon at Johns Hopkins. 
 
