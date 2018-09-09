@@ -1,0 +1,22 @@
+{
+  "name": "medhacks18-pocket-pills",
+  "version": "0.0.0",
+  "description": "MedHacks2018",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^29.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "axios": "0.18.0",
+    "base-64": "0.1.0",
+    "react-native-camera": "^0.10.0",
+    "react-native-elements": "0.19.1",
+    "react-native-loading-spinner-overlay": "0.5.2",
+    "react-native-vector-icons": "5.0.0",
+    "react-navigation": "2.13.0",
+    "react-test-renderer": "16.5.0",
+    "twilio": "3.19.2"
+  }
+}
