@@ -2,7 +2,7 @@
 
 Project for the 2018 Medical Hackathon at Johns Hopkins. 
 
-## Why
+## Why?
 
 Up to 75% of people do not take their prescription medicines properly. Many still don't take their meds when the stakes are high. This can be an especially big problem for those that need to stay on a routine for their medicine intake. 
 
